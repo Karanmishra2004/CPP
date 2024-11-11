@@ -10,34 +10,7 @@ Welcome to the **C++ Projects Repository**! This repository contains a collectio
 - **Modular Code**: Clean and modular code structure for easy understanding and reuse.
 - **Continuous Updates**: New projects and programs are added regularly.
 
-## 📁 Repository Structure
 
-The repository is organized into the following directories:
-
-```
-/Basics
-  |-- HelloWorld.cpp
-  |-- DataTypes.cpp
-  |-- ControlFlow.cpp
-
-/Intermediate
-  |-- Functions.cpp
-  |-- Pointers.cpp
-  |-- FileIO.cpp
-
-/Advanced
-  |-- OOP
-      |-- ClassesAndObjects.cpp
-      |-- Inheritance.cpp
-  |-- Algorithms
-      |-- SortingAlgorithms.cpp
-      |-- SearchAlgorithms.cpp
-
-/Projects
-  |-- MiniProject1
-      |-- Description.md
-      |-- SourceCode.cpp
-```
 
 ## 🚀 Getting Started
 
@@ -80,20 +53,13 @@ Contributions are welcome! Follow these steps to contribute:
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/<your_username>/CPP.git
+   git clone https://github.com/Karanmishra2004/CPP
    ```
 3. **Create a branch**:
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feature/main
    ```
-4. **Make your changes** and **commit**:
-   ```bash
-   git commit -m "Add your commit message"
-   ```
-5. **Push your changes** and **create a Pull Request**:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
+
 
 ## 📜 License
 
